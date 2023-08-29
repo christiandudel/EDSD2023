@@ -20,13 +20,13 @@ First install R, then install RStudio.
 
 ## Course schedule
 
-* September 6 (Wed), 14:00-16:00 (CEST)
-* September 7 (Thu), 14:00-16:00 (CEST)
-* September 11 (Mon), 9:30-11:30 (CEST)
-* September 12 (Tue), 14:00-16:00 (CEST)
-* September 13 (Wed), 14:00-16:00 (CEST)
-* September 25 (Mon), 14:00-16:00 (CEST)
-* September 27 (Wed), 14:00-16:00 (CEST)
+* September 6 (Wed), 14:00-16:00 
+* September 7 (Thu), 14:00-16:00 
+* September 11 (Mon), 9:30-11:30
+* September 12 (Tue), 14:00-16:00
+* September 13 (Wed), 14:00-16:00
+* September 25 (Mon), 14:00-16:00
+* September 27 (Wed), 14:00-16:00
 
 ## Helpful resources
 
