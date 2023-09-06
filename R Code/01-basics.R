@@ -1,7 +1,7 @@
 ### First session: Basics ###########################################
 
 ### Lines beginning with an '#' are comments, which are not run 
-### To run a line of code, move courser there and hit Ctrl + Return
+### To run a line of code, move cursor there and hit Ctrl + Return
 
 ### R as calculator #################################################
 
