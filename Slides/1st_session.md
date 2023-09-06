@@ -19,14 +19,6 @@ At the end of this course...
 - ...you understand basic concepts of R
 - ...you can do a basic analysis in R
 
-# Materials
-
-Materials will be available from GitHub, also mirrored on OSF:
-  
-- https://github.com/christiandudel/EDSD2023
-- https://osf.io/vdq4k/
-
-
 # Prerequisites
 
 - Basic demographic knowledge (e.g., you know what a 'rate' is)
@@ -40,6 +32,13 @@ Materials will be available from GitHub, also mirrored on OSF:
 - Check one of the many tasks on rosettacode.org solved with R
 - Reproduce or replicate one of the many reproducible/replicable articles available at Demographic Research
 - Work on your own analysis
+
+# Materials
+
+Materials will be available from GitHub, also mirrored on OSF:
+  
+- https://github.com/christiandudel/EDSD2023
+- https://osf.io/vdq4k/
 
 # Contact
 
@@ -56,25 +55,30 @@ Materials will be available from GitHub, also mirrored on OSF:
 
 # Course schedule
 
-September 6 (Wed), 14:00-16:00 
+September 6 (Wed), 14:00-16:00 (Basics)
 
-September 7 (Thu), 14:00-16:00 
+September 7 (Thu), 14:00-16:00 (Descriptive)
 
-September 11 (Mon), 9:30-11:30 
+September 11 (Mon), 9:30-11:30 (Data viz)
 
-September 12 (Tue), 14:00-16:00 
+September 12 (Tue), 14:00-16:00 (Data handling)
 
-September 13 (Wed), 14:00-16:00 
+September 13 (Wed), 14:00-16:00 (Programming 1)
 
-September 25 (Mon), 14:00-16:00 
+September 25 (Mon), 14:00-16:00 (Programming 2)
 
-September 27 (Wed), 14:00-16:00 
+September 27 (Wed), 14:00-16:00 (Example)
 
+# Other dates
+
+Staff outing: September 14 (Thu)
+
+Social Demography Research Day: October 13 (Fri), 10:00-15:00
 
 # (Voluntary) exercises
 
-- For some sessions, there will be some voluntary exercises to solve
-- Solutions are available online (GitHub/OSF)
+- For some sessions, there will be voluntary exercises 
+- Exercises and solutions are available online (GitHub/OSF)
 - These voluntary exercises have to be distinguished from the (mandatory!) assignment
 
 # Assignment: Overview
@@ -82,13 +86,13 @@ September 27 (Wed), 14:00-16:00
 - One mandatory assignment
 - Assignment handed out on September 25
 - Deadline: October 22
-- Assignment will consist of several exercises: "Do this and that with R", "Solve this problem with R", etc.
+- Assignment will consist of several tasks
 
 # Assignment: Your solutions
 
 - You submit R code as solutions (via email)
 - R code should be commented, explaining what is happening
-- Code should work "out-of-the-box" without errors
+- Code should work without errors
 
 # Assignment: Deadline
 
@@ -110,7 +114,7 @@ September 27 (Wed), 14:00-16:00
 
 * You can either “pass” or “fail”
 * Your code should...
-* ...work “out-of-the-box”
+* ...work without errors
 * ...be well-documented: Comments!
 * ...should be (somewhat) efficient. If one step can do the work then don’t
 use two or more!
@@ -142,7 +146,7 @@ use two or more!
 # Why use RStudio?
 
 * R is the programming language
-* RStudio is a tool to use R more efficiently
+* RStudio is a tool to use R more efficiently (IDE)
 * Features:
 + Syntax highlighting, code folding
 + Project management (e.g., GitHub)

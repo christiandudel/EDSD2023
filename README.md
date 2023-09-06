@@ -20,19 +20,19 @@ First install R, then install RStudio.
 
 ## Course schedule
 
-* September 6 (Wed), 14:00-16:00 
-* September 7 (Thu), 14:00-16:00 
-* September 11 (Mon), 9:30-11:30
-* September 12 (Tue), 14:00-16:00
-* September 13 (Wed), 14:00-16:00
-* September 25 (Mon), 14:00-16:00
-* September 27 (Wed), 14:00-16:00
+* September 6 (Wed), 14:00-16:00 (Basics)
+* September 7 (Thu), 14:00-16:00 (Descriptive)
+* September 11 (Mon), 9:30-11:30 (Data viz)
+* September 12 (Tue), 14:00-16:00 (Data handling)
+* September 13 (Wed), 14:00-16:00 (Programming 1)
+* September 25 (Mon), 14:00-16:00 (Programming 2)
+* September 27 (Wed), 14:00-16:00 (Example)
 
 ## Helpful resources
 
 Books:
 
-* Wickham, Grolemund: R for Data Science. https://r4ds.had.co.nz/
+* Wickham, Grolemund: R for Data Science. https://r4ds.hadley.nz/
 * Wickham: Advanced R. https://adv-r.hadley.nz/
 * Healy: Data Visualization. https://socviz.co/ 
 * Hernan, Robins: Causal Inference. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
