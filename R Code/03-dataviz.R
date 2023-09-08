@@ -4,6 +4,7 @@
 
   # To learn more about ggplot2: 
   # https://ggplot2.tidyverse.org/
+  # https://ggplot2-book.org/
 
   # If not installed:
   #install.packages("ggplot2")

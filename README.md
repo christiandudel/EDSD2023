@@ -34,6 +34,7 @@ Books:
 
 * Wickham, Grolemund: R for Data Science. https://r4ds.hadley.nz/
 * Wickham: Advanced R. https://adv-r.hadley.nz/
+* Wickham: ggplot2. https://ggplot2-book.org/ 
 * Healy: Data Visualization. https://socviz.co/ 
 * Hernan, Robins: Causal Inference. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 * Hastie, Tibshirani, Friedman: Elements of Statistical Learning. https://web.stanford.edu/~hastie/ElemStatLearn/ 
