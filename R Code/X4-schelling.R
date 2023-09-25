@@ -1,3 +1,6 @@
+### Implements a variant of
+### https://doi.org/10.1080/0022250X.1971.9989794
+
 ### Schelling's segregation model #############################################
 
 # Function
