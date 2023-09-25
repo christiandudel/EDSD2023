@@ -75,10 +75,10 @@
                        username=us,
                        password=pw)
   
-  # Edit pop data (not available for 2021, but 2020 will do)
+  # Edit pop data 
   pop <- pop %>% 
-           filter(Year==2020) %>% 
-           select(Age,Female1,Male1)
+           filter(Year==2021) %>% 
+           select(Age,Female,Male)
   
   
 ### Generate rates for men ##########################################
@@ -102,10 +102,10 @@
   # Combine data
   rates_m <- tibble(Age=age_range_m) %>% 
                left_join(counts_m,by="Age")
-  rates_m <- pop %>% select(Age,Male1) %>% right_join(rates_m,by="Age")
+  rates_m <- pop %>% select(Age,Male) %>% right_join(rates_m,by="Age")
   
   # Calculate rates
-  rates_m <- rates_m %>% mutate(rate=count/Male1)
+  rates_m <- rates_m %>% mutate(rate=count/Male)
 
   # TFR
   rates_m %>% summarize(TFR=sum(rate))
@@ -140,6 +140,8 @@
   
   
 ### Another simple analysis: Seasonality of births ##################
+  
+  library(scales)
   
   ggplot(data=dat,
          mapping=aes(x=dob_mm))+
